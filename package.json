@@ -10,5 +10,9 @@
     "fun"
   ],
   "author": "hys",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "babel-preset-react-app": "^9.1.1"
+  }
 }
